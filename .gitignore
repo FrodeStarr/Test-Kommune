@@ -2,3 +2,4 @@ pdf_nedlastinger/
 __pycache__/
 .venv/
 bronnoy_moter/
+*.zip
