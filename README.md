@@ -7,6 +7,15 @@ fra Brønnøy kommunes innsynsløsning
 ([Elements Publikum](https://prod01.elementscloud.no/publikum/964983291_PROD-964983291/Dmb)),
 filtrert på utvalg, år og måned.
 
+### Enklest: dobbeltklikk (Windows)
+
+1. Installer Python fra <https://www.python.org/downloads/> (huk av for **«Add Python to PATH»**).
+2. Last ned repoet (grønn **Code**-knapp → **Download ZIP**) og pakk ut.
+3. Dobbeltklikk på **`Hent_motedokumenter.bat`** og svar på spørsmålene
+   (utvalg, år, måned, hva som skal hentes). Nødvendige pakker installeres automatisk første gang.
+
+### Fra kommandolinjen
+
 ```bash
 pip install -r requirements.txt
 
